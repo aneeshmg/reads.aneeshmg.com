@@ -7,7 +7,7 @@ module.exports = {
     // Used for the title template on pages other than the index site
     siteTitle: `AneeshReads`,
     // Default title of the page
-    siteTitleAlt: `AneeshReads | Book Summaries`,
+    siteTitleAlt: `AneeshReads | Books Summarized`,
     // Can be used for e.g. JSONLD
     siteHeadline: `Penning down summaries of books I read.`,
     // Will be used to generate absolute URLs for og:image etc.
