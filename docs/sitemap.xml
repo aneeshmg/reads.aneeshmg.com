@@ -4,5 +4,9 @@
 <url> <loc>https://reads.aneeshmg.com/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reads.aneeshmg.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reads.aneeshmg.com/hello-world</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reads.aneeshmg.com/the-subtle-art-of-not-giving-a-fck</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reads.aneeshmg.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reads.aneeshmg.com/tags/art</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reads.aneeshmg.com/tags/fuck</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reads.aneeshmg.com/tags/subtle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

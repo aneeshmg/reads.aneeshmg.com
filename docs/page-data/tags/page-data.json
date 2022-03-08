@@ -1,1 +1,1 @@
-{"componentChunkName":"component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx","path":"/tags","result":{"data":{"allPost":{"group":[]}},"pageContext":{}}}
+{"componentChunkName":"component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx","path":"/tags","result":{"data":{"allPost":{"group":[{"fieldValue":"art","totalCount":1},{"fieldValue":"fuck","totalCount":1},{"fieldValue":"subtle","totalCount":1}]}},"pageContext":{}},"staticQueryHashes":["3090400250","3090400250","318001574"]}
